@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" width="150">
+</p>
+<h1 align="center"><a href="https://discord.com/users/335996004757143559" target="_blank" align="center">xxhtxƆ#1337</a><h1>
+
 # DiscordAccountExporter
 
 A safe Discord tool to export and backup your account.
@@ -5,8 +10,6 @@ A safe Discord tool to export and backup your account.
 ## Features
 * Exports all private dms and group messages
 * Exports user info
-
-More to come soon.
 
 ## Installation
 
@@ -21,14 +24,6 @@ npm install
 
 1. Enter your Discord token
 2. Wait for the app to finish exporting
-
-### Video
-[![Watch the video](https://img.youtube.com/vi/HgUV-XU5R_k/maxresdefault.jpg)](https://youtu.be/HgUV-XU5R_k)
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
