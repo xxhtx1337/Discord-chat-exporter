@@ -13,9 +13,6 @@ A safe Discord tool to export and backup your account.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-If you want to build this yourself, clone this repo and do `npm install` inside the project directory (make sure node.js is installed).
-
 ```bash
 npm install
 node app.js
