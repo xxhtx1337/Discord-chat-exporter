@@ -18,6 +18,7 @@ If you want to build this yourself, clone this repo and do `npm install` inside 
 
 ```bash
 npm install
+node app.js
 ```
 
 ## Usage
