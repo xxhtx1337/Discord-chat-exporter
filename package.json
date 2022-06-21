@@ -4,7 +4,7 @@
   "type": "module",
   "description": "Tool to export an entire Discord account. Commonly used as a backup tool.",
   "main": "app.js",
-  "author": "DanDev",
+  "author": "xxhtxƆ#1337",
   "license": "MIT",
   "dependencies": {
     "@discordjs/rest": "^0.4.1",
